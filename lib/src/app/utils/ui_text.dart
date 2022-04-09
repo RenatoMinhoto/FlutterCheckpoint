@@ -1,6 +1,6 @@
 const String email = 'Please inform your e-mail';
 const String password = 'Password';
-const String details = 'Renato Minhoto \n RM: 85374 \n 3SIR';
+const String details = 'Renato Minhoto \n RM: 85374 \n Sistemas de informação';
 const String question = 'Pros of Flutter app development?';
 const String answer =
     ' 1. One codebase for all platforms \n 2. “It’s all Widgets” principle offers countless possibilities \n 3. Rich libraries \n 4. Fast testing with hot reload ' ;
